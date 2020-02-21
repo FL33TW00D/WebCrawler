@@ -1,0 +1,1 @@
+Indexing:  8871  docs  37732  terms  named entities 32978 titles 8871 and 37732  postings lists written to file
